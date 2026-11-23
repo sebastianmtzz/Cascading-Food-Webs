@@ -1,4 +1,4 @@
-# What effects do different methods of node removal have on food webs?
+# What Effects Do Distinct Methods of Node Removal Have On Food Webs?
 Course Project for CSCI 3352 (Biological Networks), CU Boulder, Fall 2026.
 
 **Team:** Sebastian Martinez, Jake Lota
